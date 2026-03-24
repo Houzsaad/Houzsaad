@@ -15,7 +15,6 @@ Currently building and improving systems using APIs, authentication, and scalabl
 
 ● 🎯 Goals:
 - Build 3–4 real apps before graduation
-- Become confident coding without help
 
 ● ✉️ Ask me about: APIs, ORM, Authentication and Authorization
 
