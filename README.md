@@ -1,29 +1,27 @@
 ## Hi there, I am Huzaifa Sa'ad👋!
 
-■## 🚀 About Me
-- Backend Developer (Django)
-- Building VTU/Data & Airtime apps
-- Learning APIs and real-world systems
+● 🚀 About Me
+Backend Developer (Django) focused on building real-world systems like VTU (Data & Airtime) platforms.  
+Currently improving my skills in APIs, authentication, and scalable backend design.
 
-■## 🛠 Tech Stack
+● 🛠 Tech Stack
 - Python
 - Django
 - HTML, CSS
-- JavaScript (loading)
 - PostgreSQL (learning)
 
-■## 📌 Current Project
+● 📌 Current Project
 - VTU Payment System (Data & Airtime)
 
-■## 🎯 Goals
+■ 🎯 Goals
 - Build 3–4 real apps before graduation
 - Become confident coding without help
 
 - ✉️ Ask me about: APIs, ORM, Authentication and Authorization
 
-■## 📫 Connect With Me @:
+● 📫 Connect With Me @:
 - Twitter: https://x.com/Houzsaad
-- Gmail: houzsaad@gamil.com
+- Email: houzsaad@gamil.com
 
 
 
