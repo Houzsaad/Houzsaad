@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there, I am Huzaifa Sa'ad👋!
 
-<!--
-**Houzsaad/Houzsaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+■## 🚀 About Me
+- Backend Developer (Django)
+- Building VTU/Data & Airtime apps
+- Learning APIs and real-world systems
 
-Here are some ideas to get you started:
+■## 🛠 Tech Stack
+- Python
+- Django
+- HTML, CSS
+- JavaScript (loading)
+- PostgreSQL (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+■## 📌 Current Project
+- VTU Payment System (Data & Airtime)
+
+■## 🎯 Goals
+- Build 3–4 real apps before graduation
+- Become confident coding without help
+
+- ✉️ Ask me about: APIs, ORM, Authentication and Authorization
+
+■## 📫 Connect With Me @:
+- Twitter: https://x.com/Houzsaad
+- Gmail: houzsaad@gamil.com
+
+
+
