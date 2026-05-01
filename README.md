@@ -8,6 +8,7 @@ Currently building and improving systems using APIs, authentication, and scalabl
 - Python
 - Django
 - HTML, CSS
+- Bootstrap
 - PostgreSQL (learning)
 
 ● 📌 Current Project:
