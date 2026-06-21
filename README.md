@@ -22,4 +22,3 @@ Currently building and improving systems using APIs, authentication, and scalabl
 ● 📫 Connect With Me @:
 - [![Twitter](https://img.shield.io/badge//Twitter-Follow-blue)(https://x.com/Houzsaad)
 - Email: houzsaad@gamil.com
-- LinkedIN: https://www.linkedin.com/in/huzaifa-sa-ad-7814a1377
