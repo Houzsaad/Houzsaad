@@ -20,5 +20,5 @@ Currently building and improving systems using APIs, authentication, and scalabl
 ● ✉️ Ask me about: APIs, ORM, Authentication and Authorization
 
 ● 📫 Connect With Me @:
-- [![Twitter](https://img.shield.io/badge//Twitter-Follow-blue)(https://x.com/Houzsaad)
+- Twitter: https://x.com/Houzsaad
 - Email: houzsaad@gamil.com
