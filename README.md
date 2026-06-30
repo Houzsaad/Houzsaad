@@ -38,6 +38,6 @@ Python • Django • Django REST Framework • REST APIs • Authentication •
 
 📫 Connect With Me
 
-- X: @Houzsaad
+- X: https://www.x.com/Houzsaad
 - Email: houzsaad@gmail.com
 - Fiverr: https://www.fiverr.com/s/Q78QpXP
