@@ -9,7 +9,6 @@ Backend Developer specializing in Django & Django Rest Framework, focused on bui
 - Django
 - Django REST Framework (DRF)
 - PostgreSQL
-- MySQL
 - HTML & CSS
 - Bootstrap
 - Git & GitHub
@@ -24,17 +23,18 @@ A platform that helps students discover, upload, and organize academic resources
 
 VTU Platform
 
-A backend system for purchasing airtime and data bundles through third-party APIs, with secure authentication, transaction management, and RESTful API architecture.
+A FinTech platform for airtime and data purchase through third-party APIs, featuring authentication, transaction tracking, refund handling and RESTful API architecture.
 
 🎯 Currently Learning
 
 - React
+- Redis & Celery
 - Deployment & DevOps
 - Software Architecture
 
 💬 Ask Me About
 
-Python • Django • Django REST Framework • REST APIs • Authentication • PostgreSQL • Git
+Python • Django • Django REST Framework • REST APIs • API Integration • Authentication • PostgreSQL • Git
 
 📫 Connect With Me
 
