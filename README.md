@@ -40,4 +40,3 @@ Python • Django • Django REST Framework • REST APIs • API Integration �
 
 - X: https://www.x.com/Houzsaad
 - Email: houzsaad@gmail.com
-- Fiverr: https://www.fiverr.com/s/Q78QpXP
