@@ -72,4 +72,5 @@ Python • Django • Django REST Framework • REST APIs • API Integration �
 ## 📫 Connect With Me
 
 - 🐦 [X / Twitter](https://www.x.com/Houzsaad)
+- 💼 [LinkedIn](https://www.linkedin.com/in/huzaifa-sa-ad)
 - 📧 houzsaad@gmail.com
