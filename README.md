@@ -14,7 +14,7 @@
 const Huzaifa = {
   role: "Backend Developer",
   focus: "Django & Django REST Framework",
-  passion: "Building real-world FinTech system, to solve real-world problems",
+  passion: "Building real-world FinTech & SaaS system, to solve real-world problems",
 };
 ```
 
